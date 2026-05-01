@@ -36,11 +36,6 @@ const Update = () => {
     <section className="flex justify-center h-[85vh] w-full flex-col">
       <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-sm">
-          <img
-            className="mx-auto h-10 w-auto"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1200px-Apple_logo_grey.svg.png"
-            alt="Your Company"
-          />
           <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
             Update the Post
           </h2>
