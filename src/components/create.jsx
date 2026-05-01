@@ -33,11 +33,6 @@ const Create = () => {
     <section className="flex justify-center h-[85vh] w-full flex-col">
       <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-sm">
-          <img
-            className="mx-auto h-20 w-auto"
-            src="https://logodix.com/logo/2028991.png"
-            alt="Your Company"
-          />
           <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
             Create the Post
           </h2>
