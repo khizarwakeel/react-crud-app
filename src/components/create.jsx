@@ -34,7 +34,7 @@ const Create = () => {
       <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-sm">
           <img
-            className="mx-auto h-10 w-auto"
+            className="mx-auto h-20 w-20"
             src="https://logodix.com/logo/2028991.png"
             alt="Your Company"
           />
