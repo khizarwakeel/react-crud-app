@@ -42,11 +42,6 @@ const Read = () => {
     <section className="mt-28">
       <div>
         <div className="sm:mx-auto sm:w-full sm:max-w-sm">
-          <img
-            className="mx-auto h-10 w-auto"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1200px-Apple_logo_grey.svg.png"
-            alt="Your Company"
-          />
           <h2 className="my-5  text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
             Read the Post
           </h2>
